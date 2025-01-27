@@ -5,8 +5,6 @@ Welcome to **Career-Resources**, a place where the [Level Effect](https://www.le
 
 Our goal is to create a collaborative, ever-growing knowledge base that helps all of us advance in our careers.
 
-Thank you for being part of the Level Effect community’s career resource repository! Every piece of advice, every interview question, and every experience shared here is invaluable in helping others progress in their journeys. We look forward to your contributions!
-
 ## Table of Contents
 1. [How to Contribute](#how-to-contribute)  
 2. [Interview Prep](#interview-prep)  
@@ -24,6 +22,10 @@ We’d love to have you share your knowledge! You can contribute by:
 2. **Creating Issues**: If you have ideas for new sections or spot any issues with the current content, open an Issue to start a discussion.  
 
 Below are a few broad categories we’re looking to cover, but don’t feel limited—if something else would help the community, suggest it or go ahead and add it!
+
+### Community SOC Analysts
+
+Contributing to this repo allows you directly showcase your contribution to an open source project you can share on your resume and on socials with others. Go for it!
 
 ## Interview Prep
 
@@ -92,13 +94,12 @@ For those looking to advance or pivot, we want to hear about:
 
 ## Contribution Guidelines
 
-1. **Fork & Branch**: Fork this repository and create a new branch for your changes.  
+1. **Pull Request**: Open a pull request and briefly explain your contribution (e.g., added interview questions for a SOC Analyst role).  
 2. **Write Clear Descriptions**: When adding resources, please provide a clear, concise description.  
 3. **Check for Duplicates**: If the resource you’re adding is already there, consider adding extra details or updates instead of duplicating.  
-4. **Pull Request**: Open a pull request and briefly explain your contribution (e.g., added interview questions for a SOC Analyst role).  
-5. **Organization**:  
+4. **Organization**:  
    - If you’re adding multiple items, try to place them in the relevant sections (Interview Prep, On the Job Insights, etc.).  
-   - If you’re not sure where your resource fits, open an issue and we’ll figure it out together!  
+   - If you’re not sure where your resource fits, open an issue and we’ll figure it out together! or hop in our [Discord](https://discord.gg/level-effect)
 
 ## License
 Unless otherwise specified, all contributions here are licensed under the [MIT License](LICENSE). Feel free to use, adapt, and share these resources.  
